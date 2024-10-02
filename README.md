@@ -2,6 +2,6 @@ RothkoPainting is a simple web project inspired by the abstract paintings of Mar
 
 Features
 
-HTML/CSS implementation of abstract art.
+-HTML/CSS implementation of abstract art.
 
-Minimalistic design inspired by Rothko’s works.
+-Minimalistic design inspired by Rothko’s works.
